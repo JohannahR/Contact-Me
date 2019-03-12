@@ -1,0 +1,87 @@
+body{
+    background-image: url("Sea.jpg");
+    background-repeat: no-repeat;
+    background-size: 3000px 1050px;
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-align:
+    
+}
+h3{
+   
+    border-radius: 5px;
+    box-shadow: 5px;
+    font-family: 'Lobster', cursive;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+b{
+    background-image: url(Sea.jpg);
+    width: 2000px;
+    height: 400px;
+    background-position: top center;
+    font-family: 'Lobster', cursive;
+}
+
+
+h1{
+   font-weight: lighter; 
+   font-size: 80px;
+   font-family: 'Lobster', cursive;
+   text-align: center;
+   padding-top: 50px;
+   margin-bottom: 0;
+   color: whitesmoke;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+
+li{
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    transition: .5s;
+    background: rgb(48, 143, 143) 2px;
+
+}
+.fa-facebook{
+    color: #365899;
+
+}
+.fa-twitter{
+    color: #1da1f2;
+}
+.fa-snapchat{
+    color: yellow;
+    border
+}
+
+address{
+    color: whitesmoke;
+    font-family: 'Lobster', cursive;
+}
+input{
+    height: 100px;
+    width: 300px;
+}
+u{
+    color: whitesmoke;
+}
